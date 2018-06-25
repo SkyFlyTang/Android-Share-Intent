@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Share Utils</string>
+    <string name="share">分享</string>
+    <string name="toast_failure">没有相应的应用来处理</string>
+</resources>
