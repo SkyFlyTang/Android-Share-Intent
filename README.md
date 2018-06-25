@@ -1,2 +1,2 @@
 # Android-Share-Intent
-BottomSheetDialog 自定义分享 
+使用Kotlin 利用BottomSheetDialog 编写的一个自定义分享Intent的例子
